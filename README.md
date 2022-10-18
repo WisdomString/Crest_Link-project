@@ -1,6 +1,6 @@
 ## Experimental Project (Expect a lot of bugs)
 
-This project starte in 18th of October 2022. Don't know when this project will be completed.
+This project started on 18th of October 2022. Don't know when this project will be completed.
 ABANDON ALL HOPE
 
 # Getting Started with Create React App
